@@ -1,0 +1,24 @@
+# maven target
+target/
+
+# eclipse meta
+.classpath
+.project
+.settings/
+.DS_Store
+bin/
+
+# vscode
+.vscode/
+.factorypath
+
+# Log file
+*.log
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.sts4-cache
